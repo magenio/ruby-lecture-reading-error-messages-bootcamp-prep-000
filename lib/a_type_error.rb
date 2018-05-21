@@ -1,3 +1,3 @@
-x = 1
+1 + 1
 
-puts x + "is the loneliest number"
+1 + 2
